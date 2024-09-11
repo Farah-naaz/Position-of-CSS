@@ -1,0 +1,52 @@
+.china{
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    position: relative;
+}
+.shape1{
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    top: 15%;
+    left:5%;
+    position:absolute;
+    
+}
+.shape2{
+    width: 40px;
+    height: 40px;
+    background-color: gold;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    top: 5%;
+    left:25%;
+    position:absolute;
+}
+.shape3{
+    width: 40px;
+    height: 40px;
+    background-color: gold;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    top: 15%;
+    left:30%;
+    position:absolute;
+}
+.shape4{
+    width: 40px;
+    height: 40px;
+    background-color: gold;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    top: 27%;
+    left:30%;
+    position:absolute;  
+}
+.shape5{
+    width: 40px;
+    height: 40px;
+    background-color: gold;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    top: 37%;
+    left:25%;
+    position:absolute;    
+}

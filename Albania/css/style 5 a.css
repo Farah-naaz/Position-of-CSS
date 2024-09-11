@@ -1,0 +1,14 @@
+.albania{
+    width: 900px;
+    height: 600px;
+    background: red;
+    position: relative;
+}
+.kisspng-flag-of-albania-t-shirt-double-headed-eagle-albani-albanian-flag-black-and-white-www-imgarcade-com-5b7d231e9bd1b6{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top:50%;  
+    left: 40%; 
+    transform: translate(-50%,-50%); 
+}
